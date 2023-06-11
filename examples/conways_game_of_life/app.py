@@ -6,8 +6,8 @@ import pandas as pd
 
 import altair as alt
 
-import numpy as np
 
+import numpy as np
 from conways_game_of_life.model import ConwaysGameOfLife
 
 import pandas as pd
